@@ -1,1 +1,3 @@
-# Live version: https://mnichus3142.github.io/spalanie/
+Working well ✔
+
+Maybe someday I will stylize checkbox :D
