@@ -15,6 +15,7 @@ Changelog 📝:
   - new background image
   - changed overall appearance
 
-Working well ✔
+Working well on desktop ✔
+Few bugs on mobile ❌
 
 Maybe someday I will stylize checkbox :D
