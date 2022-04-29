@@ -111,3 +111,9 @@ footer {
 footer a {
     text-decoration: none;
 }
+
+@media screen and (max-width: 600px) {
+    .input {
+        max-width: 30vw;
+    }
+}
