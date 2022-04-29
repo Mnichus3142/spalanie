@@ -119,11 +119,13 @@ footer a {
 
     .footer {
         width: fit-content;
-        margin-left: -1vh;
+        margin-left: -0.8vh;
         margin-right: 0px;
         display: flexbox;
         position: relative;
+        bottom: ;
         left: -0vh;
+        bottom: 0px;
         padding: 0px;
         text-align: justify;
     }
