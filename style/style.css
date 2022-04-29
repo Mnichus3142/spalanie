@@ -123,7 +123,7 @@ footer a {
         margin-right: 0px;
         display: flexbox;
         position: relative;
-        bottom: ;
+        bottom: -0.2vh;
         left: -0vh;
         bottom: 0px;
         padding: 0px;
@@ -134,5 +134,9 @@ footer a {
         margin: -1vh;
         margin-left: 0.1vh;
         margin-right: 0.1vh;
+    }
+
+    #container {
+        left: -1vw;
     }
 }
