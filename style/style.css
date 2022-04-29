@@ -122,6 +122,8 @@ footer a {
         margin-left: -1vh;
         margin-right: 0px;
         display: flexbox;
+        position: relative;
+        left: -0vh;
         padding: 0px;
         text-align: justify;
     }
