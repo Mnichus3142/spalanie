@@ -119,7 +119,7 @@ footer a {
 
     .footer {
         width: 100vw;
-        margin-left: 0px;
+        margin-left: -1vw;
         margin-right: 0px;
     }
 }
