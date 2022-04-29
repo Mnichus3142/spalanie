@@ -15,6 +15,6 @@ Changelog 📝:
   - new background image
   - changed overall appearance
 
-Working well on desktop ✔
+Desktop ✔
 
-Few bugs on mobile ❌
+Mobile ❌ (few bugs)
