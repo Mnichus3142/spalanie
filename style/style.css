@@ -114,7 +114,7 @@ footer a {
 
 @media screen and (max-width: 600px) {
     .input {
-        max-width: 30vw;
+        max-width: 25vw;
     }
 
     .footer {
