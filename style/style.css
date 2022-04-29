@@ -119,7 +119,15 @@ footer a {
 
     .footer {
         width: 100vw;
-        margin-left: -1vw;
+        margin-left: -1vh;
         margin-right: 0px;
+        display: flexbox;
+        padding: 0px;
+        text-align: justify;
+    }
+
+    .svg {
+        margin: -1vh;
+        margin-left: 0.3vh;
     }
 }
