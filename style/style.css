@@ -146,5 +146,6 @@ footer a {
         margin-right: auto;
         position: relative;
         left: -5px;
+        width: fit-content;
     }
 }
