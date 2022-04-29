@@ -119,7 +119,7 @@ footer a {
 
     .footer {
         width: fit-content;
-        margin-left: -0.8vh;
+        margin-left: -0.2vh;
         margin-right: 0px;
         display: flexbox;
         position: relative;
@@ -145,6 +145,6 @@ footer a {
         margin-left: auto;
         margin-right: auto;
         position: relative;
-        left: -15px;
+        left: -5px;
     }
 }
