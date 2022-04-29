@@ -1,3 +1,10 @@
+Version 2.1
+
+Changelog 📝:
+  - updated cursor
+  - added footer with social media
+
+
 Version 2.0
 
 Changelog 📝:
