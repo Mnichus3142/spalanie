@@ -1,3 +1,8 @@
+Version 2.2
+
+Changelog 📝:
+  - better display on mobile
+
 Version 2.1
 
 Changelog 📝:
