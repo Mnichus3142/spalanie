@@ -17,4 +17,4 @@ Changelog 📝:
 
 Desktop ✔
 
-Mobile ❌ (few bugs)
+Mobile ✔
