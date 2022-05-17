@@ -60,6 +60,7 @@ input[type=button] {
 input[type=checkbox] {
     accent-color: var(--green);
     border: var(--green) 1px solid;
+    cursor: pointer;
 }
 
 input[type=button], input[type=reset] {
